@@ -8,3 +8,5 @@ A simple demonstration for how to use Arduino as a capacitive detector with the 
 
 ### How to connect stuff:
 ![How to connect](labeled.jpg)
+### How to arrange the pads:
+![How to arrange the pads](back.jpg)
